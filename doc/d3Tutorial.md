@@ -7,3 +7,6 @@
 - [Introduction to D3 (:tv:Video)](https://youtu.be/8jvoTV54nXw) 
 - [D3.js Tutorials: Part 1 - An Introduction to D3.js (Data Driven Documents) (:tv:Video)](https://youtu.be/K3FMuLT_3Ik)
 - [D3.js tutorial - 1 - Introduction (:tv:Video)](https://youtu.be/n5NcCoa9dDU)
+
+## MOOC
+- [Data Visualization Course - D3.js Visualization | Udacity](https://www.udacity.com/.../data-visualization-and-d3js--ud507)
