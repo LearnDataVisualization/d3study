@@ -1,4 +1,5 @@
 # What Is Data Visualization?
+- [Explore Github Topic 'Data visualization'! :sunglasses: ](https://github.com/search?utf8=✓&q=data+visualization&type=)
 - [The beauty of data visualization - David McCandless (:tv:Video)](https://ed.ted.com/lessons/david-mccandless-the-beauty-of-data-visualization#watch)
 - [The Art of Data Storytelling with Isaac Reyes (:tv:Video)](https://youtu.be/zInG1BUQZek)
 - [Making data mean more through storytelling | Ben Wellington | TEDxBroadway (:tv:Video)](https://youtu.be/6xsvGYIxJok)
@@ -8,10 +9,7 @@
 - [데이터 시각화(Data visualization) - blog.ab180](http://blog.ab180.co/data-science-with-r-2-data-visualization/)
 
 - [Designing Data Visualizations with Noah Iliinsky (:tv:Video)](https://youtu.be/R-oiKt7bUU8)
-- [Introduction to Data Visualization (:tv:Video)](https://youtu.be/XIgjTuDGXYY)
-- [Introduction to Data Visualization (:closed_book:pdf)](http://dtdata.io/prm/intro_dataviz.pdf)
-
-- [Explore Github Topic 'Data visualization'! :sunglasses: ](https://github.com/search?utf8=✓&q=data+visualization&type=)
+- [Introduction to Data Visualization (:tv:Video)](https://youtu.be/XIgjTuDGXYY) / [:closed_book:pdf](http://dtdata.io/prm/intro_dataviz.pdf)
 
 ## MOOC
 - [Data Visualization-University of Illinois at Urbana-Champaign | Coursera](https://www.coursera.org/learn/datavisualization)
