@@ -4,7 +4,7 @@ This collection of links are D3.js Tutorial for Beginner(D3.js is JavaScript lib
 
 ## Contents
 ### Data visualization
-- [What is data visualization](doc/whatIsDataVisualization.md)
+- [What is data visualization + MOOC](doc/whatIsDataVisualization.md)
 
 ### About D3.js
 - [D3 reference](doc/d3Reference.md)
