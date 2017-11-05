@@ -1,7 +1,6 @@
 # Tutorial
 - https://github.com/d3/d3/wiki/tutorials 
-- [Getting Started with D3.js(slide)](http://slides.com/elisabethengel/d3js#/18)
-- [Getting Started with D3.js (:tv:Video)with livedemo](https://www.youtube.com/watch?v=EYmJEsReewo)
+- [Getting Started with D3.js (:tv:Video)with livedemo](https://www.youtube.com/watch?v=EYmJEsReewo) / [:closed_book: slide](http://slides.com/elisabethengel/d3js#)
 - [Data Visualization and D3 by David Chouinard (:tv:Video)](https://youtu.be/MCQ9VAjyhok)
 - https://square.github.io/intro-to-d3/
 - [Introduction to D3 (:tv:Video)](https://youtu.be/8jvoTV54nXw) 
