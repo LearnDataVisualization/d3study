@@ -11,6 +11,8 @@
 - [Introduction to Data Visualization (:tv:Video)](https://youtu.be/XIgjTuDGXYY)
 - [Introduction to Data Visualization (:closed_book:pdf)](http://dtdata.io/prm/intro_dataviz.pdf)
 
+- [Explore Github Topic 'Data visualization'! :sunglasses: ](https://github.com/search?utf8=✓&q=data+visualization&type=)
+
 ## MOOC
 - [Data Visualization-University of Illinois at Urbana-Champaign | Coursera](https://www.coursera.org/learn/datavisualization)
 - [Data Analysis and Visualization | Udacity](https://www.udacity.com/course/data-analysis-and-visualization--ud404)
