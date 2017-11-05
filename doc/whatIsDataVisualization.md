@@ -16,3 +16,4 @@
 ## MOOC
 - [Data Visualization-University of Illinois at Urbana-Champaign | Coursera](https://www.coursera.org/learn/datavisualization)
 - [Data Analysis and Visualization | Udacity](https://www.udacity.com/course/data-analysis-and-visualization--ud404)
+- [Data Visualization | FreeCodeCamp](https://www.freecodecamp.org/map#collapseData-Visualization-Certification)
